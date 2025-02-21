@@ -1,0 +1,35 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+env/
+env.bak/
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Dependencias y compilaciones
+*.egg-info/
+build/
+dist/
+
+# Archivos de logs y temporales
+logs/
+*.log
+*.tmp
+
+# Archivos generados por Apache Tika
+*.md
+
+# Configuración de Poetry y pip-tools
+poetry.lock
+pip-wheel-metadata/
