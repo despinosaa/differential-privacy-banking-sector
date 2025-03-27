@@ -11,6 +11,7 @@ venv/
 .venv/
 env/
 env.bak/
+cdp/
 
 # Configuración de IDEs
 .vscode/
